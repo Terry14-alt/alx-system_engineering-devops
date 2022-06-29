@@ -1,3 +1,2 @@
 #!/bin/bash
 echo $(($TRUEKNOLEDGE+128))
-
